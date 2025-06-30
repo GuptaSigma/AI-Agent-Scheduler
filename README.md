@@ -65,6 +65,8 @@ The scheduler uses a rule-based + learning-based hybrid logic.
 Agents communicate using custom-designed protocols.
 
 This is a modular design and can be extended with NLP or speech input.
+🔹 Online Image
+st.image("https://upload.wikimedia.org/wikipedia/commons/6/6e/Golde33443.png", width=300)
 
 
 🏁 Final Note
