@@ -1,5 +1,8 @@
 # 🧠 AI Agent Scheduler
+## Live Demo
 
+- https://ai-agent-scheduler.streamlit.app/
+- 
 An intelligent task scheduling system powered by AI agents. This project demonstrates how multiple agents can coordinate, prioritize, and schedule tasks automatically based on input instructions, deadlines, and resource availability.
 
 ## 🚀 Features
